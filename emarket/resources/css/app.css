@@ -1,0 +1,99 @@
+body{
+    margin: none;
+    padding: none;
+}
+.navbar-items{
+    color: greenyellow
+}
+.navigation1{
+    margin-bottom: 5%;
+    padding-bottom:1%; 
+}
+.navigation2{
+    margin-bottom: 3%;
+    padding-bottom:2%; 
+}
+.comment{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center
+}
+
+
+.navbar-items:hover{
+    color: white
+}
+
+#addBtn{
+    text-align: right;
+    margin-right: 5%;
+    
+}
+#addBtn a{
+     width: 5%;
+     height: 2em;
+     font-size:2em; 
+}
+#addBtn a:hover{
+    background-color: black;
+}
+.form-group{
+    margin-top: 2%;
+}
+.formAdd{
+    background-color: rgb(0, 0, 0);
+    padding: 5%;
+    border-radius: 25px 25px 25px 25px;
+    color: White
+}
+.form-group label{
+    text-align: left;
+    font-size: large;
+    margin-bottom: 2%; 
+}
+.formTitle{
+    text-align: center;
+    font-size: x-large;
+    color: greenyellow;
+    margin-bottom: 5%;
+    text-decoration: underline;
+}
+.btnBtn{
+    margin-top: 10%;
+    margin-left: 45%;
+    width: 10%;
+    color: white;
+    background-color: yellowgreen;
+}
+footer{
+    margin-top: 30%;
+    padding-top: 5%;
+}
+.text-right{
+    text-align: right;
+}
+img{
+    width: 7%;
+    height: 10em;
+}
+.card{
+    margin-left: 5%;
+    margin-top:5%;
+    padding: 3%;
+    height: auto;
+}
+.details-div{
+    border: 1px solid black;
+    border-radius: 25px 25px 25px 25px;
+    margin-left: 25%;
+    text-align: center;
+    width: 50%;
+    background-color: whitesmoke;
+    font-weight: bold;
+}
+.details-div img{
+    height: 30em;
+}
+.souligne{
+    text-decoration: underline;
+}
